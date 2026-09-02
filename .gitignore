@@ -1,0 +1,9 @@
+# Environment and Secrets (CRITICAL: Never commit credentials)
+.env
+
+# Temporary and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
